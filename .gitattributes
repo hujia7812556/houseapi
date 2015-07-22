@@ -1,0 +1,6 @@
+* text=auto
+*.css linguist-vendored
+*.less linguist-vendored
+.idea
+.env
+._ide_helper.php
