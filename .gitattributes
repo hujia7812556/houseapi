@@ -3,4 +3,4 @@
 *.less linguist-vendored
 .idea/*
 .env
-._ide_helper.php
+_ide_helper.php
